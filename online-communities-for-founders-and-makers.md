@@ -1,4 +1,4 @@
-![](/uploads/online-communities-for-founders-and-makers.jpg)
+![](/images/online-communities-for-founders-and-makers.jpg)
 
 (originally posted on [Markd](https://markd.co/)'s [blog](https://blog.markd.co/2019/02/08/online-communities-for-founders-and-makers.html) - keep track of people from around the web with one click)
 
