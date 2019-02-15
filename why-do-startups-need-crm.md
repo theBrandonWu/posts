@@ -8,7 +8,7 @@ This morning I saw a question on Quora [Why do startups need CRM?](https://www.q
 
 I was chatting to a local biotech startup founder. We started talking about networking, managing relationships, and inevitably, CRMs. (I always ask people about how they manage their professional networks to get a sense of what problems we should solve at [Markd](https://markd.co/)).
 
-One thing he said stood out for me. “Why would I need a CRM tool? I haven’t got any customers!”
+One thing he said stood out for me. **“Why would I need a CRM tool? I haven’t got any customers!”**
 
 And he was right! The term _“Customer” Relationship Management_ suggests you have a lot of _customers_, thus a lot of _relationships_ with these customers that you need to _manage_ with additional tools. Why would startups without tens of thousands of customers need one of these?!
 
