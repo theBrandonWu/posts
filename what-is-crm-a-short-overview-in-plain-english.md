@@ -1,6 +1,6 @@
 # What is CRM — a Short Overview in Plain English
 
-![](/images/what-is-crm-a-short-overview-in-plain-english.jpg)
+![](/uploads/what-is-crm-a-short-overview-in-plain-english.jpg)
 
 (originally posted on [Markd](https://markd.co/)'s [blog](https://blog.markd.co/2019/01/25/what-is-crm-a-short-overview-in-plain-english.html) - keep track of people from around the web with one click)
 
